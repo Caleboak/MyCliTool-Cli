@@ -1,1 +1,1 @@
-# MyCliTool-Cli
+# Ping CLI App
